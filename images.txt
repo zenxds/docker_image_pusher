@@ -3,3 +3,6 @@ redis
 mysql:5.7
 v2fly/v2fly-core
 tobyxdd/hysteria
+teddysun/xray
+node:22
+node:20
