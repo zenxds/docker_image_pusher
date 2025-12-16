@@ -1,4 +1,3 @@
 ollama/ollama
 n8nio/n8n
-unclecode/crawl4ai
 ghcr.io/huggingface/text-embeddings-inference
